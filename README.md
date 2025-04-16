@@ -20,3 +20,9 @@ https://github.com/ioccc-src/winner/blob/master/2018/yang/prog.c
 
 Documentation de Clang Format :
 https://clang.llvm.org/docs/ClangFormat.html
+
+Etudier les options de compilation de GCC
+https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html
+
+Documenter le code à l'aide de Doxygen
+https://www.doxygen.nl/manual/commands.html
