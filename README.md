@@ -30,4 +30,6 @@ https://www.doxygen.nl/manual/commands.html
 Gestion des erreurs :
 Fonctionnement des exceptions via l'exemple : exception.cpp
 
+Coder une fonction de tri à bulle, puis analyser les performances avec un outil de profiling
+
 
