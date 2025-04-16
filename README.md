@@ -26,3 +26,8 @@ https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html
 
 Documenter le code à l'aide de Doxygen
 https://www.doxygen.nl/manual/commands.html
+
+Gestion des erreurs :
+Fonctionnement des exceptions via l'exemple : exception.cpp
+
+
