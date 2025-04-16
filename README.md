@@ -32,4 +32,7 @@ Fonctionnement des exceptions via l'exemple : exception.cpp
 
 Coder une fonction de tri à bulle, puis analyser les performances avec un outil de profiling
 
+Concevoir une API, appliquer le concept de boîte noire
+=> API générique de tri, changement d'algorithme
+
 
