@@ -15,3 +15,8 @@ mingw-w64-ucrt-x86_64-doxygen \
 make
 
 
+Appliquer Clang Format au programme suivant :
+https://github.com/ioccc-src/winner/blob/master/2018/yang/prog.c
+
+Documentation de Clang Format :
+https://clang.llvm.org/docs/ClangFormat.html
