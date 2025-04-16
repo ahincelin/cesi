@@ -1,5 +1,7 @@
 # cesi
 
+https://www.msys2.org/
+
 
 packages à installer dans msys2 :
 
